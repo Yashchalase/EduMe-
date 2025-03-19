@@ -4,7 +4,9 @@ An educational platform for students and programmers! 😊😊😊
 ![alt text](<PC View.png>)
 
 🚀 About EduMe
-EduMe is a comprehensive educational website designed to provide students and programmers with all the resources they need to succeed. Our platform offers:
+
+EduMe is a comprehensive educational website designed to provide students and programmers with all the resources they need to succeed. 
+Our platform offers:
 ✅ Notes – Well-organized study materials for easy learning.
 ✅ Sample Papers – Access to past papers and model tests.
 ✅ Online Video Lectures & Courses – High-quality content to help you crack competitive exams like JEE-Main, JEE-Advanced, GATE, and more.
